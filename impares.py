@@ -1,5 +1,5 @@
 n = int(input("Digite um numero inteiro positivo: "))
-
+print("*" * 30)
 # Iniciado as variaveis
 contagem_impares = 0
 num = 1
